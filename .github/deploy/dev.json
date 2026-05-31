@@ -1,0 +1,8 @@
+{
+  "aws_region": "eu-west-2",
+  "ecr_repository": "fastapi-ecs-dev",
+  "ecs_cluster": "fastapi-ecs-dev-cluster",
+  "ecs_service": "fastapi-ecs-dev-service",
+  "ecs_task_family": "fastapi-ecs-dev-task",
+  "container_name": "fastapi-ecs-dev-container"
+}
